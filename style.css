@@ -1,0 +1,123 @@
+* {
+    padding: 5px;
+    margin: 0px;
+    font-family: "Alata", sans-serif;
+
+}
+
+.container {
+    padding: 50px;
+}
+
+.section-one {
+    color: aliceblue;
+    background-color: black;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.section-one__contact {
+    text-decoration: solid;
+    font-size: 22px;
+}
+
+.section-one__heading {
+    font-size: 45px;
+}
+
+.section-one__designation {
+    font-size: 30px;
+
+}
+
+.section-two,
+.section-three,
+.section-four,
+.section-five {
+    padding-top: 20px;
+}
+.section-two__des,.section-three__desc,.section-four__desc{
+    padding-left: 25px;
+}
+.temp{
+    text-decoration:dotted;
+    font-size: 25px;
+}   
+.section-five{
+    background-color: black;
+    color: aliceblue;
+    padding:20px;
+    border-radius: 20px;
+}
+.section-three{
+    background-color:burlywood ;
+    display: inline-block;
+    border-radius: 10px;
+    vertical-align:bottom;
+    height: 200px;
+    padding: 15px;
+    padding-top: 10px;
+}
+.section-four{
+    background-color: aqua;
+    display: inline-block;
+    vertical-align: top;
+    height: 204px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.section-five{
+    margin-top: 20px;
+}
+.section-one_1{
+    background-color: black;
+    color:beige;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 10PX;
+    border-radius: 10px;
+}
+.home-1{
+    text-decoration:none ;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color:wheat ;
+    margin-bottom: 20px;
+    padding: 10px;
+    
+}
+.contact-form__input{
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    border-bottom: solid black 2px;
+}
+.contact-form__textarea{
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    border-bottom: solid black 2px;
+
+}
+.contact-form__submit{
+    border:  solid black 2px;
+   margin-left: 10px;
+   border-radius: 10px;
+}
+.section-one__contact{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    color: black;
+}
+.home-1{
+    border-radius: 10px;
+    padding: 10px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    color: black;
+    
+}
+.container-1{
+    margin: 10px;
+}
